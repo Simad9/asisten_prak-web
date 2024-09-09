@@ -1,0 +1,32 @@
+body {
+  background-image: url("img/background.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.text-ungu {
+  color: #717EFF;
+}
+
+.text-hitam {
+  color: #292929;
+}
+
+.btn-sendiri {
+  border-radius: 30px;
+  background-color: #717eff;
+  color: white;
+  border: none;
+  width: 100%;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.btn-sendiri:hover {
+  background-color: #9da2f3;
+  color: white;
+}
+
+.w-30 {
+  width: 30%;
+}
